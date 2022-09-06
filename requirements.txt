@@ -1,0 +1,8 @@
+flask 
+flask_wtf
+wtforms
+werkzeug
+firebase_admin
+base64
+opencv-python
+numpy
