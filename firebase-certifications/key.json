@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "face-mask-detection-171299",
+  "private_key_id": "b5713f2fdb3bbd16d4757d45fa4094a8eecf2636",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpsdiQG03Na2CG\nNixA3hMGV8yry1oVJkusrP0qPqZUmjOVPMfkGr41x0lZJ6lAq14eRRzwyYrLLhAq\nqAsr55vIn+UcY6wvpAhcuh/gGmgC6SzTRbu8bUJ3RHQzfc7FRmeLX6nKBQtGpxwq\nFqPf0T/KilPywQkloUs0avP+3HjE/tnBGVMH0YD/p7louCVMuanZEGOXeSyPmzxo\nSG/Xct9xNWa+0vdBSqDtqSG8e5EC19NU3vrC5rjB3GM6xOUnBuOzOqE4e1859Xl+\n0TVYZQxa27OlPrka9cI8Ev+ifk5C96x7TrUdxHVjtavrFCgk0U4EoMfAJfzJfyXc\nmn9ez6ONAgMBAAECggEAKcbpiIzYSi7ZzCDxIyUpLOIXtuGw800Cy2epSimzXFe8\nREz67zrwQiAmfCcKAaxO1wfv2I3duCjGfSHy4iO6lBldV/Bn9zCciGugJlWJ7tGG\nIhtkXT7O4rr9GqIp8iJjoonyLJSyUnoYsnnxbUxANrZ4dWa1wEhl0elU2ZVgvCqU\n7XnCJrmsXjklJeou/At2YunAQB9TJ9f4tfEDOc+gEuvUOQovSV2H2Vn8L7EjbIof\nY8xck3MEZPFMSh/2WUv6rmbAq+XdAtYGAyIb53cARoPXLkDxi/6WkjqF3ce7O1VS\n/DaaGghOySvLlZKDVfZxJFYDP2e1IGwMBN/n37MNhwKBgQDiDPktnQsU8XEsXV5q\n4dwXLJUMkj1ic2qGDINrGGDPKTHIv8sbl5PjaA4z/kXio1bdykiSBaH79/Su2kLq\nunedduOdPwI6jbETodEFY4RUIE526wElmiD2pC7lZ/4JsS06x5HQGc6fu3QKehsI\nfdCHnGsty/yn7q6ZxXvIjSbeJwKBgQDALW5NmX08XrphfVCvkakGFuu8iX8bbotB\nHQuZOqBVXyxJ+gKoFGt1Lg5JTnS3pvdda9+q1bGVv9/UwQlH//KLUiRF3b7pBOnX\ncSdEJ1G94IG9HmOAJZ6sVsfl5UWd363dAelM3klT4GYs4x++lKw0S30EBf8J2eZJ\nEimwnQv1KwKBgQCr0n6pDED7J1cGCOaWyZ04xDt7NcGRDve+cs6F3h7f+IkN9bMW\nAw53gYWiQbmvPsbtiS/GRp/M3bnQGrlYoGoBd/glc1pnVYJu0MYHmZBhPblGrPTP\nNyutLjkzSOuRRGqDzmRoUOV9Bsh6mjvoJXIXUm8pfW9L2qI+4hxn4drUawKBgF49\naRvwqvNR2MA5/bk7CtILp2p7WrOPEAbMQYXQtBNpaoSUb30RFmkOPr9AFAiDfkZ3\nweU6ia1PvGnOh8ihAMXFcDg6t4X5fNrDiGfpiDI+yCB/qHeM+zS0Ea7xMaRrrgz1\nBP1G/Fp/bluQvV5t9cxnQFUaw6iHDGDE4WDUgqqlAoGAAISojIGQsvBdgvUV5JN+\nGggmJd937IhWf1oNwJjDhfwUW1se9hpDaJW1+uh8OP8DU8uSV3eY7VjP/TIsUlGp\nsj8wy1ymZ67BxxjEAECygqjb4lPtI2zjBmMs5Yjx9cKdFlRWrTtAHqlSiWgTDO1f\nvx8NaoEYj8epA2aW55zlg8s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d8gsa@face-mask-detection-171299.iam.gserviceaccount.com",
+  "client_id": "111952336495065161852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d8gsa%40face-mask-detection-171299.iam.gserviceaccount.com"
+}
