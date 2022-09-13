@@ -8,7 +8,7 @@ from wtforms.validators import InputRequired
 from dbconnection import *
 from predicting import *
 from dbconnection import ConnectDb
-
+from datalocaltransfer import *
 database = ConnectDb(key = "firebase-certifications/key.json", dburl = "https://face-mask-detection-171299-default-rtdb.firebaseio.com/")
 
 app = Flask(__name__, template_folder = './templates')
@@ -30,6 +30,7 @@ def home():
         status = is_masked(path = file_path)
         filename = secure_filename(file.filename)
         database.upload_report(ref = filename, file = file_path, status = status)
+        transfer_data_to_local(filename, status, )
         return f"File '{filename}' has been uploaded.\nThe person in the image is {status}"
     
     return render_template('index.html', form = form)
