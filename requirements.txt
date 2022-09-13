@@ -6,3 +6,4 @@ firebase_admin
 base64
 opencv-python
 numpy
+psycopg2
